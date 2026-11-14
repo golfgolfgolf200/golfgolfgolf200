@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Josh Hart
+### Hi, I'm Josh Hart
 
 Historian turned tech junkie building open-source security tools, agentic payment rails, and practical AI guides.
 
