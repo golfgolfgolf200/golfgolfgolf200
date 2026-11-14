@@ -1,0 +1,20 @@
+# Terminal & shell history
+.bash_history
+.zsh_history
+.python_history
+.node_repl_history
+*_history
+*.log
+
+# Secrets & environment variables
+.env
+.env.*
+*.pem
+*.key
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
